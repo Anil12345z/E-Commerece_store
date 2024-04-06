@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(246, 238, 238);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.signup-button {
+    width: 10%;
+    height: 42px;
+    margin-right: 9px;
+    border: 2px solid rgb(174, 68, 15);
+    border-radius: 1px;
+    background-color: #fcf6f6;
+    font-size: 1px;
+    font-weight: 600;
+    cursor: pointer;
+
+
+
+}
+
+
+
+
+.signup-button:hover {
+
+    background-color: #e9ecf0d1;
+}
